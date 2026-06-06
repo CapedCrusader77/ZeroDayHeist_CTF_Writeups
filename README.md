@@ -32,23 +32,23 @@ Complete writeups for the **ZeroDay Heist Community CTF** — a 6-hour online Ca
 
 | # | Challenge | Category | Difficulty | Points | Flag |
 |---|---|---|---|---|---|
-| 01 | [Sanity Check](writeups/01-sanity-check.md) | Sanity | 🟢 Beginner | 30 | `ZeroDayHeist{welcome_to_the_heist}` |
-| 02 | [Double Encode](writeups/02-double-encode.md) | Cryptography | 🟢 Easy | 250 | `0ddayhiest{crypt0_is_fun}` |
-| 03 | [One Day...](writeups/03-one-day.md) | Steganography | 🟢 Easy | 150 | `0dayheist{1_dAy_U_will_Be}` |
-| 04 | [Greatest Poet of All Time (Veer)](writeups/04-veer.md) | Audio Forensics | 🟡 Medium | 250 | `Zer0d4yh31st{s4vark4R_W4s_th3_gr34t3st}` |
-| 05 | [The Hidden Library](writeups/05-hidden-library.md) | Steganography | 🔴 Hard | 650 | `0dayhiest{the_key_is_human_intuition}` |
-| 06 | [Security Camera #14](writeups/06-security-camera-14.md) | Forensics | 🟢 Easy | 100 | `0Day-Heist{caught_on_camera}` |
-| 07 | [Sierra's Evidence](writeups/07-sierras-evidence.md) | Forensics | 🟡 Medium | 300 | `0Day-Heist{metadata_tells_all}` |
-| 08 | [Mint Breach Logs](writeups/08-mint-breach-logs.md) | Forensics | 🟡 Medium | 400 | `0Day-Heist{mint_logs_reveal_truth}` |
-| 09 | [Last Radio Signal](writeups/09-last-radio-signal.md) | Memory Forensics | 🔴 Hard | 800 | `0Day-Heist{transmission_intercepted}` |
-| 10 | [NeuralRecon](writeups/10-neural-recon.md) | Miscellaneous | 🟡 Medium | 250 | `CyberXoX{st1ll_s1ngl3_st1ll_h4ck1ng}` |
-| 11 | [Shadow of the Panther](writeups/11-shadow-of-the-panther.md) | OSINT | 🟢 Easy | 100 | `CTF{panther_trails_never_fade}` |
-| 12 | [The Review Heist](writeups/12-review-heist.md) | OSINT | 🟡 Medium | 250 | `Zer0d4yH31st{h0p3_y0u_will_W1n_h31st}` |
-| 13 | [What Hashtag? (IxEdge Forge)](writeups/13-ixedge-forge-hashtag.md) | OSINT | 🟢 Easy | 143 | `0day-Heist{#ixedgeforge}` |
-| 14 | [Tokyo's Locker](writeups/14-tokyos-locker.md) | Reverse Engineering | 🟢 Easy | 200 | `0Day-Heist{tokyo_opened_the_locker}` |
-| 15 | [Professor's Equation](writeups/15-professors-equation.md) | Reverse Engineering | 🟡 Medium | 300 | `0Day-Heist{professor_knows_the_math}` |
-| 16 | [Lisbon's Backup Plan](writeups/16-lisbons-backup-plan.md) | Reverse Engineering | 🟡 Medium–Hard | 400 | `0Day-Heist{lisbon_found_the_secrret}` |
-| 17 | [Escape From The Mint](writeups/17-escape-from-the-mint.md) | Reverse Engineering | 🔴 Hard | 500 | `0Day-Heist{perfect_escape_executed}` |
+| 01 | [Sanity Check](01-sanity-check.md) | Sanity | 🟢 Beginner | 30 | `ZeroDayHeist{welcome_to_the_heist}` |
+| 02 | [Double Encode](02-double-encode.md) | Cryptography | 🟢 Easy | 250 | `0ddayhiest{crypt0_is_fun}` |
+| 03 | [One Day...](03-one-day.md) | Steganography | 🟢 Easy | 150 | `0dayheist{1_dAy_U_will_Be}` |
+| 04 | [Greatest Poet of All Time (Veer)](04-veer.md) | Audio Forensics | 🟡 Medium | 250 | `Zer0d4yh31st{s4vark4R_W4s_th3_gr34t3st}` |
+| 05 | [The Hidden Library](05-hidden-library.md) | Steganography | 🔴 Hard | 650 | `0dayhiest{the_key_is_human_intuition}` |
+| 06 | [Security Camera #14](06-security-camera-14.md) | Forensics | 🟢 Easy | 100 | `0Day-Heist{caught_on_camera}` |
+| 07 | [Sierra's Evidence](07-sierras-evidence.md) | Forensics | 🟡 Medium | 300 | `0Day-Heist{metadata_tells_all}` |
+| 08 | [Mint Breach Logs](08-mint-breach-logs.md) | Forensics | 🟡 Medium | 400 | `0Day-Heist{mint_logs_reveal_truth}` |
+| 09 | [Last Radio Signal](09-last-radio-signal.md) | Memory Forensics | 🔴 Hard | 800 | `0Day-Heist{transmission_intercepted}` |
+| 10 | [NeuralRecon](10-neural-recon.md) | Miscellaneous | 🟡 Medium | 250 | `CyberXoX{st1ll_s1ngl3_st1ll_h4ck1ng}` |
+| 11 | [Shadow of the Panther](11-shadow-of-the-panther.md) | OSINT | 🟢 Easy | 100 | `CTF{panther_trails_never_fade}` |
+| 12 | [The Review Heist](12-review-heist.md) | OSINT | 🟡 Medium | 250 | `Zer0d4yH31st{h0p3_y0u_will_W1n_h31st}` |
+| 13 | [What Hashtag? (IxEdge Forge)](13-ixedge-forge-hashtag.md) | OSINT | 🟢 Easy | 143 | `0day-Heist{#ixedgeforge}` |
+| 14 | [Tokyo's Locker](14-tokyos-locker.md) | Reverse Engineering | 🟢 Easy | 200 | `0Day-Heist{tokyo_opened_the_locker}` |
+| 15 | [Professor's Equation](15-professors-equation.md) | Reverse Engineering | 🟡 Medium | 300 | `0Day-Heist{professor_knows_the_math}` |
+| 16 | [Lisbon's Backup Plan](16-lisbons-backup-plan.md) | Reverse Engineering | 🟡 Medium–Hard | 400 | `0Day-Heist{lisbon_found_the_secrret}` |
+| 17 | [Escape From The Mint](17-escape-from-the-mint.md) | Reverse Engineering | 🔴 Hard | 500 | `0Day-Heist{perfect_escape_executed}` |
 
 **Total Points Captured: 4,573 / 17 Challenges Solved**
 
