@@ -106,24 +106,23 @@ Sanity                1 challenge      30 pts  █
 ```
 ZeroDayHeist_CTF_Writeups/
 ├── README.md
-└── writeups/
-    ├── 01-sanity-check.md
-    ├── 02-double-encode.md
-    ├── 03-one-day.md
-    ├── 04-veer.md
-    ├── 05-hidden-library.md
-    ├── 06-security-camera-14.md
-    ├── 07-sierras-evidence.md
-    ├── 08-mint-breach-logs.md
-    ├── 09-last-radio-signal.md
-    ├── 10-neural-recon.md
-    ├── 11-shadow-of-the-panther.md
-    ├── 12-review-heist.md
-    ├── 13-ixedge-forge-hashtag.md
-    ├── 14-tokyos-locker.md
-    ├── 15-professors-equation.md
-    ├── 16-lisbons-backup-plan.md
-    └── 17-escape-from-the-mint.md
+├── 01-sanity-check.md
+├── 02-double-encode.md
+├── 03-one-day.md
+├── 04-veer.md
+├── 05-hidden-library.md
+├── 06-security-camera-14.md
+├── 07-sierras-evidence.md
+├── 08-mint-breach-logs.md
+├── 09-last-radio-signal.md
+├── 10-neural-recon.md
+├── 11-shadow-of-the-panther.md
+├── 12-review-heist.md
+├── 13-ixedge-forge-hashtag.md
+├── 14-tokyos-locker.md
+├── 15-professors-equation.md
+├── 16-lisbons-backup-plan.md
+└── 17-escape-from-the-mint.md
 ```
 
 ---
